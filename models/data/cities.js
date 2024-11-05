@@ -9,7 +9,8 @@ const cities = [
       pais: "Colombia",
       continente: "America",
       descripcion: "Barranquilla is a port city and the main industrial center of Colombia's Caribbean coast.",
-      divisa: "Colombian Peso"
+      divisa: "Colombian Peso",
+      iternario:"672983641dc9a012a2f1abaf"
     },
     {
       nombre: "Buenos Aires",
@@ -17,7 +18,8 @@ const cities = [
       pais: "Argentina",
       continente: "America",
       descripcion: "Buenos Aires is the capital of Argentina, known for its European architecture and rich cultural life.",
-      divisa: "Argentine Peso"
+      divisa: "Argentine Peso",
+      iternario:"672983641dc9a012a2f1abb0"
     },
     {
       nombre: "Madrid",
@@ -25,7 +27,8 @@ const cities = [
       pais: "Spain",
       continente: "Europe",
       descripcion: "Madrid, the capital of Spain, is famous for its art, history, and vibrant nightlife.",
-      divisa: "Euro"
+      divisa: "Euro",
+      iternario:"672983641dc9a012a2f1abb1"
     },
     {
       nombre: "Mexico City",
@@ -33,7 +36,8 @@ const cities = [
       pais: "Mexico",
       continente: "America",
       descripcion: "Mexico City is a large metropolis and the capital of Mexico, known for its culture and gastronomy.",
-      divisa: "Mexican Peso"
+      divisa: "Mexican Peso",
+      iternario:"672983641dc9a012a2f1abb2"
     },
     {
       nombre: "Santiago",
@@ -49,7 +53,8 @@ const cities = [
       pais: "Peru",
       continente: "America",
       descripcion: "Lima is the capital of Peru, famous for its colonial history and world-renowned gastronomy.",
-      divisa: "Sol"
+      divisa: "Sol",
+      iternario:"672983641dc9a012a2f1abb3"
     },
     {
       nombre: "Bogotá",
@@ -65,7 +70,8 @@ const cities = [
       pais: "Uruguay",
       continente: "America",
       descripcion: "Montevideo is the capital of Uruguay, known for its coastline and relaxed atmosphere.",
-      divisa: "Uruguayan Peso"
+      divisa: "Uruguayan Peso",
+      iternario:"672983641dc9a012a2f1abb4"
     },
     {
       nombre: "Caracas",
@@ -81,7 +87,8 @@ const cities = [
       pais: "Ecuador",
       continente: "America",
       descripcion: "Quito, the capital of Ecuador, is famous for its colonial historic center and location in the Andes.",
-      divisa: "United States Dollar"
+      divisa: "United States Dollar",
+      iternario:"672983641dc9a012a2f1abb5"
     },
     {
       nombre: "La Paz",

@@ -8,7 +8,8 @@ let schema = new Schema({
     pais:{type:String,required:true},
     continente:{type:String,required:true},
     descripcion:{type:String,required:true},
-    divisa:{type:String,required:true}
+    divisa:{type:String,required:true},
+    iternario:{type:Schema.Types.ObjectId, ref:"Itineraries", required:false}
 })
 
 let City = model(coleccion,schema)
