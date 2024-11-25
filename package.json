@@ -8,19 +8,28 @@
     "start": "node ./servidor.js",
     "dev": "nodemon ./servidor.js",
     "dataCities": "node ./models/data/cities.js",
-     "dataIternaries": "node ./models/data/itineraries.js"
+    "dataIternaries": "node ./models/data/itineraries.js",
+    "dataUsuarios": "node ./models/data/usuarios.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "chalk": "^5.3.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
+    "geoip-lite": "^1.4.10",
+    "joi-oid": "^1.1.2",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.8.0",
     "mongose": "^0.0.2-security",
     "morgan": "^1.10.0",
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "passport": "^0.7.0",
+    "passport-google-oauth": "^2.0.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-jwt": "^4.0.1"
   }
 }

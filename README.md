@@ -10,6 +10,11 @@ npm install express
 npm install nodemon
 npm install dotenv
 npm install mongoose
+npm install joi-oid
+npm i bcryptjs
+npm i jsonwebtoken
+npm i passport passport-jwt
+npm i passport-google-oauth
 
 // datos del .env
 
