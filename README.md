@@ -23,7 +23,4 @@ URL="mongodb+srv://JDpro772009:Jhose4511@basededatosjd.n4bvo.mongodb.net/Sprint2
 
 // PostMan 
 
-
-https://elements.getpostman.com/redirect?entityId=38911087-ce659c0e-7032-413c-ac59-fd05a17924ac&entityType=collection
-
-https://www.postman.com/technical-observer-59562867/workspace/mytinerary/collection/38911087-ce659c0e-7032-413c-ac59-fd05a17924ac?action=share&creator=38911087
+https://www.postman.com/technical-observer-59562867/workspace/mytinerary/collection/38911087-ce659c0e-7032-413c-ac59-fd05a17924ac?action=share&creator=38911087&active-environment=38911087-f598c2e0-17bc-44e3-946e-26d6103778cd
